@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <sys/stat.h>
 
-#include "jpeglib.h"
+#include <jpeglib.h>
 #include "_cgo_export.h"
 
 #define DEBUG_LEVEL 0
